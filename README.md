@@ -449,3 +449,13 @@ $racconChoice.addEventListener('click', function () {
 ```
 객체가 저장되어 있는 array안 food들의 카테고리들을 필터링 하여 만약 체크 박스가 걸려있는 카테고리 예: 한식 → 한식을 제외한 ARRAY들이 랜덤 필터를 돌며 메뉴를 추천 
 
+---
+
+### 메인 메뉴
+![결과물 창](img/main.png)
+
+### 체크박스 메뉴 
+![결과물 2탄](img/main2.png)
+
+### 너구리 클릭 
+![메인 결과물](img/result.png)
